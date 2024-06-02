@@ -19,13 +19,17 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-## My contacts 
+
+## My Contacts
 <div align="center">
   <a href="https://t.me/Trushka99">
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968804.png" alt="TG Badge"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968804.png" alt="TG Badge" width="100"/>
   </a>
 </div>
-**Почта**
-trushka12512@gmail.com
-**Телефон**
-+79240063404
+
+
+
+
+  
+**Почта**: trushka12512@gmail.com
+**Телефон** : +79240063404
